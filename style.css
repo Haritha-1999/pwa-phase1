@@ -1,0 +1,21 @@
+body{
+  background-color: skyblue;
+}
+.parent{
+  background-color: pink;
+  padding: 8%;
+  margin: 4%;
+  display: flex;
+  justify-content: space-around;
+}
+.child{
+  width: 20%;
+  height: 30%;
+  padding: 2%;
+  margin: 2%;
+  background-color: grey;
+  text-align: center;
+}
+img{
+  width: 50%;
+}

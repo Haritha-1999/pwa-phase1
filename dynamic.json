@@ -1,0 +1,46 @@
+{
+"basics":
+{
+"img":"rose.jpg",
+"name":"Haritha",
+"email":"rdmhari1609@gmail.com",
+"job":"engineer"
+},
+"career":
+{
+  "info":"i want to seek a position where i can explore my thoughts and skills for the benefits of the organisation"
+},
+"education":
+[
+  {
+    "sno":"1",
+    "degree":"btech",
+    "institute":"mits",
+    "yop":"2021"
+  },
+  {
+    "sno":"2",
+    "degree":"inter",
+    "institute":"narayana",
+    "yop":"2017"
+  },
+  {
+    "sno":"3",
+    "degree":"tenth",
+    "institute":"josephs",
+    "yop":"2015"
+  }
+],
+"technicalskills":
+[
+  {
+    "info":"c"
+  },
+  {
+    "info":"c++"
+  },
+  {
+    "info":"java"
+  }
+]
+}
